@@ -1,0 +1,2 @@
+export const CHOOSEN_TYPE = "CHOOSEN_TYPE";
+export const CHOOSEN_CLOTHES = "CHOOSEN_CLOTHES";
